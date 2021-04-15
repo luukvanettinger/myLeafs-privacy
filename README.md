@@ -1,5 +1,3 @@
-# myLeafs-privacy-policy
-
 **Privacy Policy**
 
 luukvanettinger built the myLeafs app as an Ad Supported app. This
